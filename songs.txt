@@ -1,0 +1,13 @@
+"name", "artists", "danceability", "energy", "key", "loudness", "mode", "speechiness", "acousticness", "instrumentalness", "liveness", "valence", "tempo", "duration_ms", "time_signature"
+
+-- select * from songs limit 5;
+
+SELECT * FROM "songs" WHERE "danceability" >= 0.75 AND "energy" >= 0.75 ORDER BY "time_signature" DESC, "liveness" DESC, "mode" ASC, "tempo" ASC, "loudness" ASC;
+-- SELECT * FROM "songs" WHERE "danceability" >= 0.75 AND "energy" >= 0.75 ORDER BY "time_signature" DESC, "mode" ASC, "tempo" ASC, "loudness" ASC;
+-- DROP TABLE "songs";
+
+
+sqlite3 top2018.db < dance.sql > output.txt
+sqlite3 -cmd ".mode csv" -cmd ".header on" -cmd ".output dance.csv" top2018.db < dance.sql
+
+-- skip 1

@@ -1,0 +1,229 @@
+{
+  "tracks": {
+    "items": [
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "The Shanghai Restoration Project"
+            },
+            {
+              "name": "Dez"
+            }
+          ],
+          "duration_ms": 201066,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/1OGNHrgeQyqu4tTeSee49z",
+          "name": "Miss Shanghai"
+        },
+        "added_at": "2019-12-20T10:27:19Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Fedde Le Grand"
+            }
+          ],
+          "duration_ms": 218406,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/33TD1Fl26qJUkGmbbPcWQl",
+          "name": "Rhythm Of The Night - Original Mix"
+        },
+        "added_at": "2019-12-20T10:48:00Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Britney Spears"
+            },
+            {
+              "name": "Tinashe"
+            }
+          ],
+          "duration_ms": 213534,
+          "explicit": true,
+          "href": "https://api.spotify.com/v1/tracks/2i9q8CteBmpslOJeQdMGqA",
+          "name": "Slumber Party (feat. Tinashe)"
+        },
+        "added_at": "2019-12-20T10:50:19Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Spencer Ludwig"
+            }
+          ],
+          "duration_ms": 201433,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/6RotBIo70VVzEcOhvgJGPC",
+          "name": "Diggy"
+        },
+        "added_at": "2019-12-20T10:53:01Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Fergie"
+            },
+            {
+              "name": "Q-Tip"
+            },
+            {
+              "name": "GoonRock"
+            }
+          ],
+          "duration_ms": 240733,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/1Mq6nWFfXgqpkeuoLG3JIl",
+          "name": "A Little Party Never Killed Nobody (All We Got)"
+        },
+        "added_at": "2019-12-20T10:54:16Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Black Eyed Peas"
+            }
+          ],
+          "duration_ms": 307640,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/7vWFaMq63AwkFDhS2OAg5u",
+          "name": "The Time (Dirty Bit)"
+        },
+        "added_at": "2019-12-20T10:56:27Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Clean Bandit"
+            },
+            {
+              "name": "Sean Paul"
+            },
+            {
+              "name": "Anne-Marie"
+            }
+          ],
+          "duration_ms": 251088,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/5knuzwU65gJK7IF5yJsuaW",
+          "name": "Rockabye (feat. Sean Paul & Anne-Marie)"
+        },
+        "added_at": "2019-12-20T10:56:40Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Bebe Rexha"
+            },
+            {
+              "name": "Lil Wayne"
+            }
+          ],
+          "duration_ms": 187787,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/3ZkUWF1MVm3tLgz7dplGpk",
+          "name": "The Way I Are (Dance with Somebody) [feat. Lil Wayne]"
+        },
+        "added_at": "2019-12-20T10:57:32Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "The Weeknd"
+            },
+            {
+              "name": "Daft Punk"
+            }
+          ],
+          "duration_ms": 269186,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/3dhjNA0jGA8vHBQ1VdD6vV",
+          "name": "I Feel It Coming"
+        },
+        "added_at": "2019-12-20T10:57:48Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "KOYOTIE"
+            }
+          ],
+          "duration_ms": 186549,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/0tyDVz7ahZzV3v9M2T7Me8",
+          "name": "Get Busy"
+        },
+        "added_at": "2019-12-20T10:58:29Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Pharrell Williams"
+            },
+            {
+              "name": "Camila Cabello"
+            }
+          ],
+          "duration_ms": 202853,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/6XlSyYFTU1nodeWwwzVgTV",
+          "name": "Sangria Wine"
+        },
+        "added_at": "2019-12-20T10:59:08Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "The Just Dance Band"
+            }
+          ],
+          "duration_ms": 260440,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/7HALIbZdZHbKdXH64LBG4h",
+          "name": "All You Gotta Do (Is Just Dance)"
+        },
+        "added_at": "2019-12-20T10:59:23Z"
+      },
+      {
+        "track": {
+          "artists": [
+            {
+              "name": "Carly Rae Jepsen"
+            }
+          ],
+          "duration_ms": 200320,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/3dtp75StyEK5XeKraS5KiI",
+          "name": "Now That I Found You"
+        },
+        "added_at": "2019-12-26T09:12:04Z"
+      },
+      {  
+        "track": {
+          "artists": [
+            {
+              "name": "Maroon 5"
+            }
+          ],
+          "duration_ms": 189486,
+          "explicit": false,
+          "href": "https://api.spotify.com/v1/tracks/2b8fOow8UzyDFAE27YhOZM",
+          "name": "Memories"
+        },
+        "added_at": "2019-12-26T09:12:18Z"
+      }
+    ]
+  }
+}
